@@ -1,6 +1,6 @@
 <?php
-$consumer_key = 'dj0yJmk9U2psa3RIZzNoUE1lJmQ9WVdrOVMwOXNSMnRJTkhNbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD0wNw--';
-$consumer_secret = 'e7dd8d64fee90d2067665c23e28d2f8d74d1f269';
+$consumer_key = 'dj0yJmk9ZjNiUkZCeGUweHJmJmQ9WVdrOVVHZzNUbE5DTnpJbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD0yZQ--';
+$consumer_secret = '451671c074310bb5c0b47dafe7d5b076d6821392';
 
 $o = new OAuth( $consumer_key, $consumer_secret,
                 OAUTH_SIG_METHOD_HMACSHA1,
